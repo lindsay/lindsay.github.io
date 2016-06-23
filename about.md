@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Lindsay's Page
 permalink: /about/
 ---
 
